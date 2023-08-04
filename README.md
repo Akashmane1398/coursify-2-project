@@ -1,2 +1,3 @@
-# coursify-2-project
+# coursify-project
 its cousrsify project 
+front end developer 
